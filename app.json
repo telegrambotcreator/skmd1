@@ -7,17 +7,17 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~U31BgTiS#PFvrCme_gi9Vx9_3UJm53oVYxYprA6IdOqgl2VTSaGE",
       "required": true
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://raw.githubusercontent.com/telegrambotcreator/img/main/FILMPUBLISHERLK.png",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "I am Here.",
       "required": true
     }   
 },
